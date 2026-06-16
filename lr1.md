@@ -115,7 +115,7 @@ resumeid,userid,title,skills,created
 ```
 INSERT INTO `simpledb`.`resume` (`userid`) VALUES ('132');
  ```
-<img width="974" height="741" alt="image" src="https://github.com/user-attachments/assets/b9f469fe-fed9-49eb-951c-4ab667ee74c0" />
+![](1.1.png)
 
 Добавить пользователя с несуществующим id невозиожно, так как поле userid является внешним ключом, ссылающимся на поле id в таблице users. Поскольку в таблице users отсутствует запись с гнсуществующим идентификатором , ограничение ссылочной целостности блокирует выполнение операции.
 
