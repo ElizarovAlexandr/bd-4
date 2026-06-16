@@ -64,4 +64,4 @@ Orders:
 |ON UPDATE CASCADE)|
 ```
 ## Задание 3
-![](Pasted%20image%2020260615210004.png)
+![](2.3.png)
