@@ -3,7 +3,7 @@
 ![](2.1.png)
 
 Ссылка на запрос:
-https://gist.github.com/ElizarovAlexandr/00052da0751a359bf4df56796dc7e6a6
+https://gist.github.com/ElizarovAlexandr/00052da0751a359bf4df56796c7e6a6
 
 Код создания таблицы invoice:
 ```sql
@@ -29,7 +29,7 @@ https://gist.github.com/ElizarovAlexandr/00052da0751a359bf4df56796dc7e6a6
 ## Задание 2
 ![](2.2.png)
 Ссылка на запрос:
-https://gist.github.com/ElizarovAlexandr/264c02b88a3e02f9004a2b4580b4def4
+https://gist.github.com/ElizarovAlexandr/264c02b88a3e0f9004a2b4580b4def4
 Orders:
 
 ```sql
